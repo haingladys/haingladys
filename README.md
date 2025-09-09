@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hain Gladys  
 
-💻 **SQL Developer | Data Analyst | Web Developer**  
+💻 **SQL Developer | Web Developer**  
 🚀 Passionate about building scalable data solutions, exploring machine learning, and creating user-friendly applications.  
 
 ---
