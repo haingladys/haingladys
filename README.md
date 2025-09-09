@@ -51,9 +51,9 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hain-gladys-b54486261)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](your-portfolio-url)  
-📧 Email: *your-email@example.com*  
+📧 Email: *haingladys@gmail.com*  
 
 ---
 ✨ *“Always learning, always building.”*  
